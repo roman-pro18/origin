@@ -1,0 +1,6 @@
+#tmp/
+#*.html_old
+#*._backup
+#thumbs.db
+#".DS_store
+
