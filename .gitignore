@@ -1,6 +1,7 @@
-# tmp/
-# *.html_old
-# *._backup
-# thumbs.db
-# .DS_Store
+# 
+tmp/
+*.html_old
+*._backup
+thumbs.db
+.DS_Store
 
